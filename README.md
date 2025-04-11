@@ -13,7 +13,6 @@
 ## ⚾️ hobby 🎮
 
 - 야구 관람 & 플레이
-- 발로란트 
 - ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=flat-square&logo=valorant&logoColor=white)
   
 
