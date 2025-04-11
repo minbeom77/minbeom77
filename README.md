@@ -6,13 +6,15 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-##contact
+
+## contact
 [![Email](https://img.shields.io/badge/contact-7557191@naver.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:7557191@naver.com)
 
-## ⚾️ 취미
+## ⚾️ hobby 🎮
 
 - 야구 관람 & 플레이
-- 발로란트 🎮
+- 발로란트 
+- ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=flat-square&logo=valorant&logoColor=white)
   
 
 - 😄 긍정적인 사고
