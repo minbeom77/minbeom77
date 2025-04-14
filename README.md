@@ -14,6 +14,3 @@
 
 - 야구 관람 & 플레이
 - ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=flat-square&logo=valorant&logoColor=white)
-  
-
-- 😄 긍정적인 사고
