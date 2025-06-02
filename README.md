@@ -18,3 +18,11 @@
 ## career
 
 - 공군 병장 만기전역
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minbeom77&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minbeom77"
+  width="600"
+  height="300"
+/>
+</a>
