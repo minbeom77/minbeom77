@@ -3,12 +3,14 @@
 
 ---
 
-### 📈 GitHub Stats & Most Used Languages
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minbeom77&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbeom77&layout=compact&theme=radical" />
-</p>
-
+### 📈 GitHub Stat
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minbeom77&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minbeom77"
+  width="600"
+  height="300"
+/>
+</a>
 ---
 
 ### 💼 Career & Experience
